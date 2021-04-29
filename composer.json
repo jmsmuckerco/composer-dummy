@@ -1,0 +1,16 @@
+{
+  "name": "jmsmucker/composer-dummy",
+  "type": "metapackage",
+  "description": "Dummy package",
+  "keywords": ["dummy"],
+  "homepage": "https://github.com/jmsmuckerco/composer-dummy",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Andrew Gradisher",
+          "email": "andrew.gradisher@jmsmucker.com",
+          "homepage": "http://www.jmsmucker.com",
+          "role": "Lead Developer"
+      }
+  ]
+}
